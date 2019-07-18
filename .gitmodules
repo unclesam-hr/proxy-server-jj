@@ -1,3 +1,6 @@
 [submodule "component-jj"]
 	path = component-jj
 	url = /component-jj
+[submodule "component-cp"]
+	path = component-cp
+	url = /component-cp
