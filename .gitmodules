@@ -4,3 +4,6 @@
 [submodule "component-cp"]
 	path = component-cp
 	url = /component-cp
+[submodule "component-sj"]
+	path = component-sj
+	url = https://github.com/unclesam-hr/component-sj.git
