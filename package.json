@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server/index.js",
-    "build": "webpack -d --watch"
+    "start": "nodemon server/index.js"
   },
   "repository": {
     "type": "git",
@@ -18,15 +17,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-  },
-  "devDependencies": {
-    "@babel/cli": "^7.4.4",
-    "@babel/core": "^7.5.4",
-    "@babel/preset-env": "^7.5.4",
-    "@babel/preset-react": "^7.0.0",
-    "babel-loader": "^8.0.6",
     "nodemon": "^1.19.1",
-    "webpack": "^4.35.2",
-    "webpack-cli": "^3.3.5"
+    "request": "^2.88.0"
   }
 }
